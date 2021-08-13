@@ -1,5 +1,7 @@
 # Accurics - Tag Line
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/2decb22d-7f57-42ac-9af1-4ae875b2952f.svg)](https://app.soluble.cloud/repos/details/github.com/bill-demo-eg/kai-monkey-aws)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/fd0927a0-2189-4225-a4ad-92c5fc4d85f7.svg)](https://app.soluble.cloud/repos/details/github.com/bill-demo-eg/kai-monkey-aws)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/88b3f12d-ba2b-4b71-b2ba-dd62ed5ab48b.svg)](https://app.soluble.cloud/repos/details/github.com/bill-demo-eg/kai-monkey-aws)  
+
 Accurics platform enables immutable security by consistently protecting the full cloud native stack, infrastructure as code and identifying the drifts between them.
 
 ![Accurics](https://github.com/accurics/kai-monkey-aws/blob/main/logo.png)
